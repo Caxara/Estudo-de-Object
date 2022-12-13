@@ -3,8 +3,8 @@
     this.peso += p
  }}
  
-
- console.log(`${amigo.nome} pesa ${amigo.peso} Kg aos ${amigo.idade} anos de idade.`)
+amigo.engordar(10)
+ console.log(`${amigo.nome} pesa ${amigo.peso}Kg aos ${amigo.idade} anos de idade.`)
 
 
 
