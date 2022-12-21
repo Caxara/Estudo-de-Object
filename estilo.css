@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+    color: black;
+    /*position: relative;
+    margin: auto;
+    width: 400px;
+    margin-top: 100px;*/
+
+}
+
+#Lari{
+    background-color: aqua;
+    height: 500px;
+    width: 400px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 2px rgb(117, 113, 113);
+    margin-left: 10px;
+
+}
+#nome1{
+    margin-left: 10px;
+}
+#Lari p {
+    margin-top: 30px;
+    color: red;
+    margin-left: 30px;
+ }
+
+ button {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    color: black;
+    background-color: blue;
+    border-radius: 10px 5px 2px rgb(31, 27, 27);
+ }
